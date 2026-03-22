@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `OpenRaiser/NanoResearch`
 - 🏆 `Jiangzy520/DreamleStockRadar`
-- 🏆 `KlingAIResearch/X-Dub`
 - 🏆 `joeseesun/markdown-proxy`
+- 🏆 `KlingAIResearch/X-Dub`
 - 🏆 `grapeot/context-infrastructure`
