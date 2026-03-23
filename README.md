@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `bytedance-deerflow/deer-flow-installer`
+- 🏆 `aaronjmars/MiroShark`
 - 🏆 `KlingAIResearch/X-Dub`
 - 🏆 `MoyangLi00/DROID-W`
-- 🏆 `aaronjmars/MiroShark`
 - 🏆 `DestinyCycloid/chatgpt_register_v2_by_AI`
