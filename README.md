@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `dadiaomengmeimei/NL2AutoAPI`
 - 🏆 `jzOcb/writing-style-skill`
+- 🏆 `cvlab-kaist/GLD`
 - 🏆 `MohamedElsayed-debug/mse_ai_api`
 - 🏆 `Aquifer-sea/pattern8`
-- 🏆 `cvlab-kaist/GLD`
