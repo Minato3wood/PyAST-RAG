@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `dadiaomengmeimei/NL2AutoAPI`
-- 🏆 `MohamedElsayed-debug/mse_ai_api`
 - 🏆 `jzOcb/writing-style-skill`
+- 🏆 `MohamedElsayed-debug/mse_ai_api`
 - 🏆 `Aquifer-sea/pattern8`
 - 🏆 `cvlab-kaist/GLD`
