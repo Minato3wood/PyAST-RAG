@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `victorsosaMx/vsWaybar-Studio`
 - 🏆 `nicedreamzapp/claude-code-local`
-- 🏆 `OpenDemon/Pilipili-AutoVideo`
+- 🏆 `victorsosaMx/vsWaybar-Studio`
 - 🏆 `Nahuel990/ministack`
+- 🏆 `OpenDemon/Pilipili-AutoVideo`
 - 🏆 `Maoleio/CPA-Codex-Manager`
