@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `CyrilPeng/FlowScroll`
+- 🏆 `victorsosaMx/vsWaybar-Studio`
 - 🏆 `nicedreamzapp/claude-code-local`
 - 🏆 `OpenDemon/Pilipili-AutoVideo`
 - 🏆 `Nahuel990/ministack`
