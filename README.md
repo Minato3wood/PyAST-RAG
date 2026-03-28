@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `CyrilPeng/FlowScroll`
 - 🏆 `0xSero/turboquant`
 - 🏆 `Maoleio/CPA-Codex-Manager`
-- 🏆 `zc-zhangchen/any-auto-register`
 - 🏆 `neo4j-labs/create-context-graph`
 - 🏆 `F-R-L/forge-film`
