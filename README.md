@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `poleHansen/baibaiAIGC`
 - 🏆 `mujocolab/mjviser`
 - 🏆 `cdppcorp/KESE-KIT`
-- 🏆 `TongmingLAIC/AKO4ALL`
 - 🏆 `RyanCodrai/py-turboquant`
+- 🏆 `TongmingLAIC/AKO4ALL`
