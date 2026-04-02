@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `lhfer/claude-howto-zh-cn`
-- 🏆 `cksac/turboquant-model`
+- 🏆 `kayba-ai/recursive-improve`
 - 🏆 `matthewkhpt7kuznetsov4833/Base-Volume-Bot`
-- 🏆 `AgentFlocks/flocks`
+- 🏆 `cksac/turboquant-model`
 - 🏆 `claw-codes/wx4py`
+- 🏆 `AgentFlocks/flocks`
