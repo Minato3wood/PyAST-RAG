@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `MhmRdd/google-rkp-sw`
 - 🏆 `sandroandric/AgentHandover`
-- 🏆 `BlueManCZ/hyprmod`
+- 🏆 `MhmRdd/google-rkp-sw`
 - 🏆 `claw-codes/wx4py`
 - 🏆 `lhfer/claude-howto-zh-cn`
+- 🏆 `BlueManCZ/hyprmod`
