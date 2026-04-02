@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `sandroandric/AgentHandover`
 - 🏆 `MhmRdd/google-rkp-sw`
+- 🏆 `BlueManCZ/hyprmod`
 - 🏆 `claw-codes/wx4py`
 - 🏆 `lhfer/claude-howto-zh-cn`
-- 🏆 `BlueManCZ/hyprmod`
