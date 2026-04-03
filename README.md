@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `lhfer/claude-howto-zh-cn`
 - 🏆 `MhmRdd/google-rkp-sw`
 - 🏆 `zai-org/GLM-skills`
 - 🏆 `claw-codes/wx4py`
 - 🏆 `Mibayy/token-savior`
-- 🏆 `inclusionAI/cuLA`
