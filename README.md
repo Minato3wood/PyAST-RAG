@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `sooryathejas/METATRON`
-- 🏆 `iflytek/iFly-Skills`
 - 🏆 `PrathamLearnsToCode/paper2code`
+- 🏆 `HKUDS/CatchMe`
+- 🏆 `iflytek/iFly-Skills`
 - 🏆 `SafeRL-Lab/nano-claude-code`
 - 🏆 `Ganso/refugiOS`
