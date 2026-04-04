@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `yaojingang/yao-meta-skill`
 - 🏆 `calesthio/OpenMontage`
 - 🏆 `FujitsuResearch/OneCompression`
-- 🏆 `lllyasviel/VCC`
 - 🏆 `iflytek/iFly-Skills`
+- 🏆 `lllyasviel/VCC`
