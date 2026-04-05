@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `meituan-longcat/LongCat-AudioDiT`
 - 🏆 `ShandaAI/AlayaRenderer`
-- 🏆 `HKUDS/CatchMe`
 - 🏆 `dsclca12/auto_reg`
+- 🏆 `HKUDS/CatchMe`
 - 🏆 `yaojingang/yao-meta-skill`
