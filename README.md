@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `dsclca12/auto_reg`
 - 🏆 `rasbt/mini-coding-agent`
 - 🏆 `he-yufeng/CoreCoder`
-- 🏆 `Wang-Cankun/Open-Tax-Infra-Toolkit`
 - 🏆 `Morgensonne/EditDeck`
+- 🏆 `Wang-Cankun/Open-Tax-Infra-Toolkit`
