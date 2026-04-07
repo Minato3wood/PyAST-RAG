@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `aiming-lab/AutoHarness`
 - 🏆 `Saganaki22/ComfyUI-OmniVoice-TTS`
+- 🏆 `aiming-lab/AutoHarness`
 - 🏆 `LearnPrompt/cc-harness-skills`
 - 🏆 `Spade-sec/First`
 - 🏆 `DevTechJr/turboquant-gpu`
