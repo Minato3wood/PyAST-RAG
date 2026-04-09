@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `openlibrecommunity/olcrtc`
 - 🏆 `Abnerla/AI_paper`
-- 🏆 `wiggins90343stephanie01/DEX-Arbitrage-Bot`
 - 🏆 `YuJunZhiXue/qwen2API`
 - 🏆 `DLYuanGod/MegaTrain`
 - 🏆 `LoseNine/ruyipage`
