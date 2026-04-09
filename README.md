@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `YuJunZhiXue/qwen2API`
 - 🏆 `openlibrecommunity/olcrtc`
 - 🏆 `Doryoku1223/lunwen-skill`
-- 🏆 `LoseNine/ruyipage`
 - 🏆 `Xiangyue-Zhang/auto-deep-researcher-24x7`
+- 🏆 `LoseNine/ruyipage`
