@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Xiangyue-Zhang/auto-deep-researcher-24x7`
+- 🏆 `LoseNine/ruyipage`
 - 🏆 `sanketagarwal/hyperliquid-trading-agent`
 - 🏆 `Janlaywss/hu-chenfeng-skill`
 - 🏆 `civilian7/sql-tutorial`
