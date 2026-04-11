@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `LilanOvO/Auto-Resubmit`
 - 🏆 `OpenMOSS/MOSS-VL`
+- 🏆 `LilanOvO/Auto-Resubmit`
 - 🏆 `AdeleZhu/teacher-skill`
 - 🏆 `gatelynch/llm-knowledge-base`
 - 🏆 `yaofeino1/tech-distiller`
