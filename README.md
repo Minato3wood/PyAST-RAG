@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `yanhua1010/zero-to-ai-fullstack`
-- 🏆 `zju3dv/Scal3R`
 - 🏆 `OpenDriveLab/WorldEngine`
+- 🏆 `zju3dv/Scal3R`
 - 🏆 `yaofeino1/tech-distiller`
 - 🏆 `nox-project/nox-framework`
