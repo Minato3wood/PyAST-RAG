@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `yanhua1010/zero-to-ai-fullstack`
 - 🏆 `LichAmnesia/lich-skills`
 - 🏆 `jiangmuran/noterx`
-- 🏆 `BruceLanLan/buffett-oracle-analyzer`
 - 🏆 `ByteDance-Seed/In-Place-TTT`
+- 🏆 `BruceLanLan/buffett-oracle-analyzer`
