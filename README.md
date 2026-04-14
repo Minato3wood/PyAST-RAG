@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `dengxianghua888-ops/ecoalign-forge`
 - 🏆 `AuthBits/webmcp`
-- 🏆 `debpalash/OmniVoice-Studio`
 - 🏆 `run-llama/ParseBench`
+- 🏆 `debpalash/OmniVoice-Studio`
 - 🏆 `superpilot69/pdf-trad-to-simp-preserve-layout-kit`
