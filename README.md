@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `stanford-iris-lab/meta-harness`
+- 🏆 `mukul975/cve-mcp-server`
 - 🏆 `760485464/qyclaw`
 - 🏆 `v0id4real/Void-Tools`
 - 🏆 `dengxianghua888-ops/ecoalign-forge`
