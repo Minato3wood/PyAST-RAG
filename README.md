@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `HJCheng0602/nanoPD`
 - 🏆 `v0id4real/Void-Tools`
+- 🏆 `HJCheng0602/nanoPD`
 - 🏆 `balabala-sean/stock-analysis`
 - 🏆 `dengxianghua888-ops/ecoalign-forge`
 - 🏆 `koffuxu/ai-influence-digest`
