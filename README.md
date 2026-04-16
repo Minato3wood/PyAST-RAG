@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `v0id4real/Void-Tools`
 - 🏆 `HJCheng0602/nanoPD`
 - 🏆 `balabala-sean/stock-analysis`
-- 🏆 `dengxianghua888-ops/ecoalign-forge`
 - 🏆 `koffuxu/ai-influence-digest`
+- 🏆 `dengxianghua888-ops/ecoalign-forge`
