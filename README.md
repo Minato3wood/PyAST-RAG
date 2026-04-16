@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `weareaisle/nano-analyzer`
 - 🏆 `balabala-sean/stock-analysis`
 - 🏆 `dengxianghua888-ops/ecoalign-forge`
-- 🏆 `AuthBits/webmcp`
 - 🏆 `yifangao112/Camyla`
+- 🏆 `AuthBits/webmcp`
