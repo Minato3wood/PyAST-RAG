@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `zhuyansen/wx-favorites-report`
 - 🏆 `bxf1001g/desktop_mario`
 - 🏆 `VonHoltenCodes/SlowBooks-Pro-2026`
-- 🏆 `zhuyansen/wx-favorites-report`
 - 🏆 `OpenMOSS/MOSS-Audio`
 - 🏆 `Introspective-Diffusion/I-DLM`
