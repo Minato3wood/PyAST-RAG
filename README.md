@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `alexandercodes4/AirTrain`
 - 🏆 `humanrouter/ddtree-mlx`
+- 🏆 `YeQing17-2026/OmniAgent`
 - 🏆 `sherlock-488/xchat-playground`
 - 🏆 `Rainman69/SNISPF`
-- 🏆 `YeQing17-2026/OmniAgent`
