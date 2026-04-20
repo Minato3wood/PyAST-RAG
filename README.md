@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `yzhao062/agent-style`
+- 🏆 `the-hidden-fish/advisor-ledger`
 - 🏆 `Euphonique/iCloudPhotoSync`
 - 🏆 `1-dr-eam/RecommenderSystem`
-- 🏆 `Tencent-Hunyuan/HY-SOAR`
 - 🏆 `MrsEWE44/musicDownload`
+- 🏆 `Tencent-Hunyuan/HY-SOAR`
