@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `yaojingang/geo-citation-lab`
 - 🏆 `AlphaBrainGroup/AlphaBrain`
+- 🏆 `yaojingang/geo-citation-lab`
 - 🏆 `xinyitang3/cfnb`
-- 🏆 `outcomeops/context-engineering`
 - 🏆 `LeoKemp223/embed-ai-tool`
+- 🏆 `outcomeops/context-engineering`
