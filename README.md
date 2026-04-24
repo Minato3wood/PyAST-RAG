@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Yaolinwang/AITD`
 - 🏆 `connectfarm1/accumulation-radar`
+- 🏆 `Yaolinwang/AITD`
 - 🏆 `akseolabs-seo/AK-Threads-booster`
 - 🏆 `dsd2077/CyberVerse`
 - 🏆 `AlphaBrainGroup/AlphaBrain`
