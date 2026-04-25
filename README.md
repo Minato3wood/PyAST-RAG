@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `ZRainbow1275/AutoTeam-F`
+- 🏆 `TheTom/vllm-swift`
 - 🏆 `epoko77-ai/im-not-ai`
 - 🏆 `AKCodez/hackingtool-plugin`
 - 🏆 `AlphaBrainGroup/AlphaBrain`
