@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `gaotiexinqu/OneResearchClaw`
 - 🏆 `baidu-baige/LoongForge`
 - 🏆 `agentforce314/clawcodex`
-- 🏆 `ChuprinaDaria/Vibecode-Cleaner-Fartrun`
 - 🏆 `NyxTides/ppt-image-first`
+- 🏆 `ChuprinaDaria/Vibecode-Cleaner-Fartrun`
