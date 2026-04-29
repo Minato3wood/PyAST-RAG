@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `lonr-6/cc-desktop-switch`
+- 🏆 `haigechanlun/chanlun_auto_trading`
 - 🏆 `daoqi/NTE-ai`
-- 🏆 `bradautomates/claude-video`
 - 🏆 `FADEDTUMI/YHoAutoFish`
-- 🏆 `theori-io/copy-fail-CVE-2026-31431`
 - 🏆 `Fokkyp/SoftwareCopyright-Skill`
