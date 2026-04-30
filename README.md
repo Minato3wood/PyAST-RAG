@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `YiKongk/windsurf-manager`
 - 🏆 `AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash`
-- 🏆 `watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py`
 - 🏆 `i2cjak/Framework_Expansion_Cards`
 - 🏆 `yxlao/deepseek-cursor-proxy`
 - 🏆 `huskydoge/Awesome-Loop-Models`
