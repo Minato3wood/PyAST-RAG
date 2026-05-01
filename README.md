@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `syabro/snitchmd`
 - 🏆 `Tech-Melon/GmgnTwitterTgAlert`
-- 🏆 `shiyi-zh0408/Meta-CoT`
 - 🏆 `layerbrain/trunks`
+- 🏆 `shiyi-zh0408/Meta-CoT`
 - 🏆 `therichardngai-code/gpt-image-2-pro-max`
