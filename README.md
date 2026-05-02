@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `RecursiveMAS/RecursiveMAS`
 - 🏆 `layerbrain/trunks`
 - 🏆 `syabro/snitchmd`
-- 🏆 `Tech-Melon/GmgnTwitterTgAlert`
 - 🏆 `Sndav/CVE-2026-31431-Advanced-Exploit`
+- 🏆 `Tech-Melon/GmgnTwitterTgAlert`
