@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `layerbrain/trunks`
 - 🏆 `Sndav/CVE-2026-31431-Advanced-Exploit`
 - 🏆 `killsnake01/China-Marketing-Copilot-Skill`
-- 🏆 `therichardngai-code/gpt-image-2-pro-max`
 - 🏆 `Tech-Melon/GmgnTwitterTgAlert`
 - 🏆 `shiyi-zh0408/Meta-CoT`
