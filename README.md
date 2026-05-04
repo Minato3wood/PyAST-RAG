@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Sndav/CVE-2026-31431-Advanced-Exploit`
+- 🏆 `killsnake01/China-Marketing-Copilot-Skill`
 - 🏆 `devnen/qwen3.6-windows-server`
+- 🏆 `Sndav/CVE-2026-31431-Advanced-Exploit`
 - 🏆 `mebrown47/CUDA_spectrum`
 - 🏆 `Tech-Melon/GmgnTwitterTgAlert`
-- 🏆 `lthoangg/openagentd`
