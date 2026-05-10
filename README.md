@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `dwisiswant0/next-16.2.4-pocs`
 - 🏆 `KevRojo/Dulus`
 - 🏆 `CodeAbra/iai-mcp`
-- 🏆 `RongLiu-AML/EvoAML`
 - 🏆 `TomSolid/myPKA`
+- 🏆 `RongLiu-AML/EvoAML`
