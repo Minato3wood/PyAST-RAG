@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `KevRojo/Dulus`
-- 🏆 `CodeAbra/iai-mcp`
 - 🏆 `dwisiswant0/next-16.2.4-pocs`
+- 🏆 `CodeAbra/iai-mcp`
 - 🏆 `RongLiu-AML/EvoAML`
 - 🏆 `TomSolid/myPKA`
