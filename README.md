@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `zhengkid/AutoTTS`
 - 🏆 `huck012428-lab/prompt-atlas`
-- 🏆 `nolanx-ai/nolanx.ai`
 - 🏆 `keon/jepa`
 - 🏆 `3440869867/image-multi-asset-extractor`
 - 🏆 `exploitbench/exploitbench`
