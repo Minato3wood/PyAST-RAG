@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `SGloria/research-paper-pipeline`
 - 🏆 `Ingar30/reviewer`
 - 🏆 `Anthonykhayesaudsrx50512/Flash-USDT-Sender`
-- 🏆 `ltczding-gif/ref-downloader`
 - 🏆 `ZJU-REAL/SDAR`
+- 🏆 `ltczding-gif/ref-downloader`
