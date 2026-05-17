@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `SGloria/research-paper-pipeline`
 - 🏆 `Ingar30/reviewer`
+- 🏆 `SGloria/research-paper-pipeline`
 - 🏆 `Anthonykhayesaudsrx50512/Flash-USDT-Sender`
 - 🏆 `ZJU-REAL/SDAR`
 - 🏆 `ltczding-gif/ref-downloader`
