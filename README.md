@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `zimingttkx/QuantumFlow`
+- 🏆 `ZekaiSuni/claude-for-legal-turkish`
 - 🏆 `shootthesound/comfyui-mesh`
 - 🏆 `Ingar30/reviewer`
 - 🏆 `mdowis/anansi`
