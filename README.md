@@ -1,7 +1,7 @@
 # PyAST-RAG
 针对 Python 代码库优化的 RAG（检索增强生成）工具，利用 AST（抽象语法树）实现结构化代码切分和依赖追踪。
 
-🚀 目前已成功解析 **<!-- REPO_COUNT -->27** 个热门项目，累计处理 **<!-- LOC_COUNT -->393,298** 行核心代码。
+🚀 目前已成功解析 **<!-- REPO_COUNT -->27** 个热门项目，累计处理 **<!-- LOC_COUNT -->389,544** 行核心代码。
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![RAG](https://img.shields.io/badge/AI-RAG-green.svg)
@@ -111,4 +111,4 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Ingar30/reviewer`
 - 🏆 `theermia/BaleTunnel`
 - 🏆 `mdowis/anansi`
-- 🏆 `gaoweijun5/arxiv-tracker-agent`
+- 🏆 `huey1in/WindsurfX`
