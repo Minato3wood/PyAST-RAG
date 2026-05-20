@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `JSingletonAI/dejavu`
 - 🏆 `mdowis/anansi`
-- 🏆 `gaoweijun5/arxiv-tracker-agent`
-- 🏆 `jackson-video-resources/markov-hedge-fund-method`
-- 🏆 `Hi-FullHouse/CyberSecurity-Skills`
 - 🏆 `Saganaki22/Pixal3D-ComfyUI`
+- 🏆 `gaoweijun5/arxiv-tracker-agent`
+- 🏆 `Hi-FullHouse/CyberSecurity-Skills`
