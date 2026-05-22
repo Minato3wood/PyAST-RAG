@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `rulyone/Simple-ReAct-Agent`
 - 🏆 `shootthesound/comfyui-mesh`
 - 🏆 `huey1in/WindsurfX`
-- 🏆 `clawdbrunner/captcha-solver`
 - 🏆 `DaoyuanLi2816/can-i-finetune-this`
+- 🏆 `clawdbrunner/captcha-solver`
