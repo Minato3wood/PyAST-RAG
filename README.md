@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `resonancegnatassess/Lossless-Scaling`
 - 🏆 `YxuanAr/Code-as-Room`
 - 🏆 `TencentYoutuResearch/T2I-L2P`
-- 🏆 `resonancegnatassess/Lossless-Scaling`
-- 🏆 `stainlu/stainful`
 - 🏆 `wanshuiyin/ARIS-in-AI-Offer`
+- 🏆 `stainlu/stainful`
