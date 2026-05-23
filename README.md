@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `clawdbrunner/captcha-solver`
 - 🏆 `TencentYoutuResearch/T2I-L2P`
-- 🏆 `YxuanAr/Code-as-Room`
+- 🏆 `clawdbrunner/captcha-solver`
 - 🏆 `VILA-Lab/FigMirror`
+- 🏆 `YxuanAr/Code-as-Room`
 - 🏆 `wanshuiyin/ARIS-in-AI-Offer`
