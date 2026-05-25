@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `GAO-pooh/paper-scraper`
 - 🏆 `mwhammadrezss/ShiroKhorshidScanner`
-- 🏆 `jjrCN/PanoWorld`
 - 🏆 `next-1688/1688-cowboy`
+- 🏆 `jjrCN/PanoWorld`
 - 🏆 `stainlu/stainful`
