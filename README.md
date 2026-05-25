@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Saddytech/lockbit-rescue`
+- 🏆 `GAO-pooh/paper-scraper`
 - 🏆 `mwhammadrezss/ShiroKhorshidScanner`
 - 🏆 `jjrCN/PanoWorld`
-- 🏆 `stainlu/stainful`
 - 🏆 `next-1688/1688-cowboy`
+- 🏆 `stainlu/stainful`
