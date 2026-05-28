@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `ArthurYangX/nano-NotebookLM`
-- 🏆 `TencentYoutuResearch/T2I-L2P`
 - 🏆 `edmicho/mm-probe-kit`
+- 🏆 `TencentYoutuResearch/T2I-L2P`
 - 🏆 `riyagoelrs/tiktok-scraper`
 - 🏆 `Orange2019220/ReluPruner`
