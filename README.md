@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `nekocode/filetree-skill`
-- 🏆 `KevinXu02/R3`
 - 🏆 `pardcomper/mllm-jailbreak-bench`
+- 🏆 `KevinXu02/R3`
 - 🏆 `imperia-ran/DTLN_v2.0`
 - 🏆 `haskaomni/serenity`
