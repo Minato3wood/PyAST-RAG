@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `jelllott/speechkv-trim`
+- 🏆 `haskaomni/serenity`
 - 🏆 `GU-Cryptography/anykb`
 - 🏆 `Gao-Ruilin/AutoRun`
 - 🏆 `vvt004/speech-eval-arena`
