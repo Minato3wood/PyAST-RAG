@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Kaimen-Inc/Co-Scientist`
-- 🏆 `jelllott/speechkv-trim`
+- 🏆 `Gao-Ruilin/AutoRun`
 - 🏆 `lynote-ai/ai-detector-skill`
+- 🏆 `jelllott/speechkv-trim`
 - 🏆 `vvt004/speech-eval-arena`
 - 🏆 `jiaran-king/Re-Zero---Starting-LLM-`
