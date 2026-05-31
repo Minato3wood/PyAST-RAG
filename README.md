@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `keys2023190905023/TinyEdgeBench`
 - 🏆 `jiaran-king/Re-Zero---Starting-LLM-`
-- 🏆 `a2328275243/mempalace-evolve`
 - 🏆 `justxor/pythonroamap2026`
+- 🏆 `a2328275243/mempalace-evolve`
 - 🏆 `OnlyTerp/prompt-cache-skills`
