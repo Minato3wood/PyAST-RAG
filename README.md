@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `punk2898/wechat-group-stats`
 - 🏆 `ANGJustinl/adb-gopay`
 - 🏆 `TheStageAI/edge-lm`
-- 🏆 `Happy-Chen-CH/text_classification`
 - 🏆 `simonw/micropython-wasm`
+- 🏆 `Happy-Chen-CH/text_classification`
