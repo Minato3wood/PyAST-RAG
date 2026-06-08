@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `naomili0924/inference_driven_model_compiler`
 - 🏆 `gauss314/skills`
-- 🏆 `TheStageAI/edge-lm`
-- 🏆 `juew/Skill-Routing-Kit`
+- 🏆 `simonw/micropython-wasm`
 - 🏆 `littlepeachs/NaturePanelForge`
+- 🏆 `juew/Skill-Routing-Kit`
+- 🏆 `TheStageAI/edge-lm`
