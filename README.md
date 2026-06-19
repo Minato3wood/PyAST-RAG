@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Verdi38/Silent-Crypto-Miner`
 - 🏆 `regi1r/Crypto-Recovery`
 - 🏆 `darialebedev8/Crypto-Clipper`
-- 🏆 `playmobil/worldcup-forecast`
 - 🏆 `HuolalaTech/huolala-figma-mcp`
+- 🏆 `playmobil/worldcup-forecast`
