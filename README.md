@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `machinefi/trio-retina`
 - 🏆 `ksimback/looper`
 - 🏆 `toinbox/simplerelay`
-- 🏆 `sums001/Windows-Copilot-API`
 - 🏆 `mallexibra-dev/clipforge`
 - 🏆 `Upload-Post/avatar-mix`
