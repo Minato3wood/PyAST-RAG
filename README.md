@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `ksimback/looper`
 - 🏆 `toinbox/simplerelay`
+- 🏆 `sums001/Windows-Copilot-API`
 - 🏆 `mallexibra-dev/clipforge`
 - 🏆 `Upload-Post/avatar-mix`
-- 🏆 `sums001/Windows-Copilot-API`
