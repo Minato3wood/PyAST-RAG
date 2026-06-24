@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `tllovesxs/wandao`
 - 🏆 `Gach0ng/AgentStalker`
 - 🏆 `judder659/Forven`
-- 🏆 `asimons81/hermes-gpt`
 - 🏆 `jwangkun/loops`
+- 🏆 `asimons81/hermes-gpt`
