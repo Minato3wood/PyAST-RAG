@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `Reyzowter/Hello-Agents`
 - 🏆 `per-simmons/unreal-agent-harness`
+- 🏆 `Vanszs/qwencloud-generator`
 - 🏆 `KBRmau/linkedin-profile-optimizer`
 - 🏆 `FishCodeTech/muteki`
-- 🏆 `Vanszs/qwencloud-generator`
