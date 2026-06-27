@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `cclank/lanshu-animated-architecture-diagram`
+- 🏆 `Reyzowter/Hello-Agents`
+- 🏆 `per-simmons/unreal-agent-harness`
 - 🏆 `KBRmau/linkedin-profile-optimizer`
-- 🏆 `deepseek-ai/DeepSpec`
 - 🏆 `FishCodeTech/muteki`
 - 🏆 `Hatari130/map-creator`
