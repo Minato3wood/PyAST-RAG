@@ -1,7 +1,7 @@
 # PyAST-RAG
 针对 Python 代码库优化的 RAG（检索增强生成）工具，利用 AST（抽象语法树）实现结构化代码切分和依赖追踪。
 
-🚀 目前已成功解析 **<!-- REPO_COUNT -->30** 个热门项目，累计处理 **<!-- LOC_COUNT -->27,931** 行核心代码。
+🚀 目前已成功解析 **<!-- REPO_COUNT -->30** 个热门项目，累计处理 **<!-- LOC_COUNT -->24,681** 行核心代码。
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![RAG](https://img.shields.io/badge/AI-RAG-green.svg)
@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum`
 - 🏆 `yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultra`
 - 🏆 `dimasarestuprasmanto/Hades-II-Trainer-Premium`
 - 🏆 `MuhammadHanzalaIqbal/Hades-II-Trainer-Ultra`
 - 🏆 `NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026`
-- 🏆 `incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus`
