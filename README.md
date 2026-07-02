@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `mysghiii/Email_Extractor`
 - 🏆 `honorharger/DNS_Flusher`
-- 🏆 `buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack`
 - 🏆 `Zahid275/Clair_Obscur__Expedition_33_Trainer`
+- 🏆 `buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack`
 - 🏆 `scolwell/Captcha_Solver_AI`
