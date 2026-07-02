@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `omarabdelazez11/Valorant_TriggerBot_Elite`
-- 🏆 `Mbovu222/League_of_Legends_Skillshot_Dodger`
-- 🏆 `Parth-Rana-333/Spider-Man_Remastered_Unlimited_Gadgets`
-- 🏆 `ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot`
-- 🏆 `iamhmjayed/MEGA_Cloud_Bot`
+- 🏆 `wrgrt/Bee_Swarm_Simulator_-_Auto-Farm___Honey_Hack`
+- 🏆 `Neshke/BedWars_-_Auto-Farm___Aimbot`
+- 🏆 `Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot`
+- 🏆 `ammansharrma/Cyberpunk_2077_Night_City_Enhancer`
+- 🏆 `Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot`
