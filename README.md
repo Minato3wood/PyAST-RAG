@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `sagarbabu9/Docker_Container_Manager`
+- 🏆 `mdrayhanbhuiyan/Battlefield_6_Trainer___ESP`
+- 🏆 `Zlatkoo25/Apex_Legends_Movement_Macro___Aim_Assist`
+- 🏆 `mariusboiti/Clipboard_Sync`
 - 🏆 `wrgrt/Bee_Swarm_Simulator_-_Auto-Farm___Honey_Hack`
-- 🏆 `Neshke/BedWars_-_Auto-Farm___Aimbot`
-- 🏆 `Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot`
-- 🏆 `ammansharrma/Cyberpunk_2077_Night_City_Enhancer`
-- 🏆 `Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot`
