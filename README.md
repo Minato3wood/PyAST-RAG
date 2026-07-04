@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `ylvachifu1992/Silent-Crypto-Miner`
 - 🏆 `neteroster/CodexCont`
+- 🏆 `ylvachifu1992/Silent-Crypto-Miner`
 - 🏆 `Will-hxw/drawio-diagram-builder-skill`
 - 🏆 `Zizuixixiang/cedareco`
 - 🏆 `redevops-io/context-runtime`
