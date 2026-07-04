@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `easylink-ai-open/agent-runtime`
+- 🏆 `Will-hxw/drawio-diagram-builder-skill`
 - 🏆 `StormSaboteur/Meccha-Chameleon-Trainer`
+- 🏆 `Oft3r/agentic-trading-desk`
 - 🏆 `MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark`
 - 🏆 `Pulseliwatch/Hades-II-Trainer`
-- 🏆 `Oft3r/agentic-trading-desk`
