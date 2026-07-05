@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `xiaoleiy/podpull`
 - 🏆 `redevops-io/context-runtime`
-- 🏆 `Novajosky5/Seed-Generator`
 - 🏆 `AISciLab/ProtMMLM`
+- 🏆 `Novajosky5/Seed-Generator`
 - 🏆 `tonyd2wild/DeepSeek-v4-Flash-DSpark-1M-NVFP4-KV-2x-DGX-Spark`
