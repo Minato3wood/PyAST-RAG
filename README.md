@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `iAm-182/bluk-cf`
+- 🏆 `ylvachifu1992/Silent-Crypto-Miner`
 - 🏆 `lingbol088-spec/ReiPenFlow`
 - 🏆 `jfoboston/email-to-print`
 - 🏆 `jieg9341-lab/ComfyUI-Krea2-StyleTransfer`
