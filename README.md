@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `iAm-182/bluk-cf`
 - 🏆 `oxbshw/watch-skill`
-- 🏆 `animede/image-3d`
 - 🏆 `vinhhien112/Three.js-Object-Sculptor-Codex-Plugin`
+- 🏆 `animede/image-3d`
 - 🏆 `Leo1998-Lu/ai-paper2slide-skill`
