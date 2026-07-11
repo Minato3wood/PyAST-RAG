@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `shaohua-pan/StarWAM`
 - 🏆 `oxbshw/watch-skill`
-- 🏆 `animede/image-3d`
 - 🏆 `SilentFleetKK/ai-market-pulse`
+- 🏆 `animede/image-3d`
 - 🏆 `ronikobrosly/RigorLoop`
