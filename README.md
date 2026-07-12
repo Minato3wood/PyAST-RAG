@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `maxucheng0/grok-auto-register`
 - 🏆 `liangdabiao/liurun-bookwriter-skills`
-- 🏆 `ronikobrosly/RigorLoop`
+- 🏆 `maxucheng0/grok-auto-register`
 - 🏆 `biheto/DevAgent-Studio`
+- 🏆 `ronikobrosly/RigorLoop`
 - 🏆 `Moh4696/build-ai-agents-free`
