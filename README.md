@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Moh4696/build-ai-agents-free`
 - 🏆 `biheto/DevAgent-Studio`
 - 🏆 `ohad6k/ditto`
-- 🏆 `cozytab/fable5-mode`
 - 🏆 `lbouaraba/comfyui-krea2edit`
+- 🏆 `cozytab/fable5-mode`
