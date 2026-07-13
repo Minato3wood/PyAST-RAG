@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `ohad6k/ditto`
 - 🏆 `maxucheng0/grok-auto-register`
 - 🏆 `djfksjd/ir-search`
-- 🏆 `ohad6k/ditto`
 - 🏆 `SilentFleetKK/ai-market-pulse`
 - 🏆 `animede/image-3d`
