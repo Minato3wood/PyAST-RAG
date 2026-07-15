@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `Extraltodeus/J-Wash`
 - 🏆 `theteatoast/local-vuln-research-pipeline`
+- 🏆 `Yuliang-Liu/MonkeyOCRv2`
 - 🏆 `nihe0909/xiaohongshu-ai-workbench`
 - 🏆 `NextWeb4/lan-file-transfer`
 - 🏆 `zjp1997720/codex-model-routing-team`
