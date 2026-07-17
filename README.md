@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `nathanskill/niubiskill`
-- 🏆 `OpenBMB/StaffDeck`
-- 🏆 `pro-deploy/aegil`
+- 🏆 `HSJ-BanFan/grok-register-web`
 - 🏆 `HITsz-TMG/KnowAct`
+- 🏆 `nathanskill/niubiskill`
+- 🏆 `pro-deploy/aegil`
 - 🏆 `navpreet079/Seed-Generator`
