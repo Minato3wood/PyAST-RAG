@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `navpreet079/Seed-Generator`
 - 🏆 `rollingSirius/equity-research-skill`
+- 🏆 `navpreet079/Seed-Generator`
 - 🏆 `jinyangwu/SEED`
 - 🏆 `jbarach2012/AuthProbe`
 - 🏆 `coji/natural-japanese`
