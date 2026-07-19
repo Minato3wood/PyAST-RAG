@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `jinyangwu/SEED`
 - 🏆 `Faradworks/Pinscope`
 - 🏆 `JiXiner/flinkAgentMonitoring`
-- 🏆 `jbarach2012/AuthProbe`
 - 🏆 `LanceZPF/awesome-papers-awesome`
+- 🏆 `jbarach2012/AuthProbe`
