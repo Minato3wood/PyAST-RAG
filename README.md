@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `JiXiner/flinkAgentMonitoring`
-- 🏆 `jbarach2012/AuthProbe`
 - 🏆 `Faradworks/Pinscope`
+- 🏆 `jbarach2012/AuthProbe`
 - 🏆 `SunkenCost/grok-regkit`
 - 🏆 `XiaomiRobotics/Xiaomi-Robotics-U0`
