@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `Tencent-Hunyuan/Hyra-results`
 - 🏆 `katerina20/cloud-threat-anomaly-lab`
 - 🏆 `Jingyi-Wu-Richael/rachel-digital-human-production`
-- 🏆 `zengweishuai/ScaleBFM`
 - 🏆 `mattj85/SpookiUI`
+- 🏆 `zengweishuai/ScaleBFM`
