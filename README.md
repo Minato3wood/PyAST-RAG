@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `Tencent-Hunyuan/Hyra-results`
-- 🏆 `balaji-md/bmass`
-- 🏆 `zengweishuai/ScaleBFM`
+- 🏆 `katerina20/cloud-threat-anomaly-lab`
 - 🏆 `Jingyi-Wu-Richael/rachel-digital-human-production`
+- 🏆 `zengweishuai/ScaleBFM`
 - 🏆 `mattj85/SpookiUI`
