@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `NulightJens/humanizer-stack`
 - 🏆 `Jia-Ethan/grok-keysmith`
-- 🏆 `bytec-ai/book-video-factory`
 - 🏆 `cporter202/coreclaw-api-directory`
 - 🏆 `mufengyuan666/Gazette`
 - 🏆 `mufengyuan666/Breaker`
