@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `NanmiCoder/open-image-prompts`
 - 🏆 `NulightJens/humanizer-stack`
+- 🏆 `NanmiCoder/open-image-prompts`
 - 🏆 `daimon3332/Outlook-Oauth-GetToken`
-- 🏆 `cporter202/coreclaw-api-directory`
 - 🏆 `AmazingAng/old-coder`
+- 🏆 `cporter202/coreclaw-api-directory`
