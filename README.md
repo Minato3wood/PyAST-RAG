@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `MoonshotAI/PerceptionBench`
 - 🏆 `mufengyuan666/Gazette`
 - 🏆 `mufengyuan666/Breaker`
-- 🏆 `daimon3332/OutlookManage`
 - 🏆 `Noz2/RootHound`
+- 🏆 `daimon3332/OutlookManage`
