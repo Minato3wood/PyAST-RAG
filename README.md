@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `rw-r-r-0644/bc250-core-unlock`
+- 🏆 `mufengyuan666/Breaker`
 - 🏆 `nopnoping/micro-vllm`
 - 🏆 `zairuilab/consulting-deck`
 - 🏆 `ahmedemad3/arch-wiki`
