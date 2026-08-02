@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `liangnjupt/VisTouch`
 - 🏆 `SerhiiKorniienko/bullshit-detector`
+- 🏆 `HezaoHezao/poirot`
 - 🏆 `Marktechpost/Token-Saver`
 - 🏆 `meepo-it/letsfinddomain-skill`
-- 🏆 `HezaoHezao/poirot`
