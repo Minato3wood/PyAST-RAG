@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `cursor/mixture-of-kittens`
+- 🏆 `littlelelephant/literature-review-agent`
 - 🏆 `LiJiaxing0213/DistillAlign`
 - 🏆 `xmarre/ComfyUI-Spectrum-MiniMax-H3`
 - 🏆 `bybit-exchange/kaas`
