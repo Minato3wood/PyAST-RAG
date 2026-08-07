@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `sowarma/wp2shell-PoC`
+- 🏆 `x4gKing/bot-telegram`
 - 🏆 `xyaz1313/phoenix`
 - 🏆 `oliverb-io1902e8/agent-skills-collection`
-- 🏆 `harrietbrooke/NEdge`
 - 🏆 `alishamari/AgentForge`
+- 🏆 `harrietbrooke/NEdge`
