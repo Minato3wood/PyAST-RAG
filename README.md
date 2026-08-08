@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `x4gKing/bot-telegram`
 - 🏆 `xyaz1313/phoenix`
 - 🏆 `typewriter03/Desko`
-- 🏆 `oliverb-io1902e8/agent-skills-collection`
 - 🏆 `mika50000/gpt-link`
+- 🏆 `oliverb-io1902e8/agent-skills-collection`
