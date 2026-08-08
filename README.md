@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `Tr1dae/ComfyUI-MiniMaxH3_LatentUpscaler`
-- 🏆 `x4gKing/bot-telegram`
 - 🏆 `ShawnPana/phone-harness`
+- 🏆 `x4gKing/bot-telegram`
 - 🏆 `xyaz1313/phoenix`
 - 🏆 `typewriter03/Desko`
