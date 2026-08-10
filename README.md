@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `okky-x0f/qoder-creator`
 - 🏆 `RidgeRookPattern/comix-autoclipper`
-- 🏆 `3169657175/gpt-webcodex`
 - 🏆 `sosoj92/jarvis-assistant-vocal`
+- 🏆 `3169657175/gpt-webcodex`
 - 🏆 `sv-number/skills`
