@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `1038lab/ComfyUI-MiniMax-H3-Promptor`
+- 🏆 `MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI`
 - 🏆 `YINGLINGH/limioryn`
 - 🏆 `johnathanchiu/roomform`
 - 🏆 `ZestfulPulse/ios-app-store-submit`
-- 🏆 `MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI`
