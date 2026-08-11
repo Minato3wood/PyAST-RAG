@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `sv-number/skills`
+- 🏆 `3169657175/gpt-webcodex`
 - 🏆 `1038lab/ComfyUI-MiniMax-H3-Promptor`
 - 🏆 `YINGLINGH/limioryn`
 - 🏆 `johnathanchiu/roomform`
