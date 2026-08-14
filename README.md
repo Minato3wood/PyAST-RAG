@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `lilvli/portable-vna`
-- 🏆 `xz1915/flavor-structure-analyzer`
-- 🏆 `lyc403223157-source/knowledge-inbox`
-- 🏆 `lensback940701/Evidence-Bound-Press-Conference-Revision-Skill`
 - 🏆 `JWP-p/ai-nuclear-spectroscopy`
+- 🏆 `lyc403223157-source/knowledge-inbox`
+- 🏆 `xz1915/flavor-structure-analyzer`
+- 🏆 `lensback940701/Evidence-Bound-Press-Conference-Revision-Skill`
