@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `adrianpunk/punk-ip-illustrations`
 - 🏆 `lensback940701/Evidence-Bound-Press-Conference-Revision-Skill`
 - 🏆 `straighttttt/movie-commentary-workflow`
-- 🏆 `harukiseller-droid/commerce-agent-bench`
 - 🏆 `scottmudge/ComfyUI_MinimaxH3HybridLoader`
+- 🏆 `harukiseller-droid/commerce-agent-bench`
