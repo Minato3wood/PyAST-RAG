@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `harukiseller-droid/commerce-agent-bench`
-- 🏆 `dukz2003/lum_codex`
 - 🏆 `jerber/arc-code`
-- 🏆 `duy90utc528/repo-publication-audit`
+- 🏆 `dukz2003/lum_codex`
 - 🏆 `eatWhitePorridge/link-pp`
+- 🏆 `duy90utc528/repo-publication-audit`
