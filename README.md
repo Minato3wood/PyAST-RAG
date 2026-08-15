@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `Rimagination/h3lite`
 - 🏆 `jerber/arc-code`
 - 🏆 `harukiseller-droid/commerce-agent-bench`
 - 🏆 `straighttttt/movie-commentary-workflow`
 - 🏆 `dukz2003/lum_codex`
-- 🏆 `Rimagination/h3lite`
