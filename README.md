@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `straighttttt/movie-commentary-workflow`
 - 🏆 `eatWhitePorridge/link-pp`
 - 🏆 `dukz2003/lum_codex`
-- 🏆 `1838904818/audit-repo`
 - 🏆 `limouren2000/YYGlobal`
+- 🏆 `1838904818/audit-repo`
