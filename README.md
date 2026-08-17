@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `straighttttt/movie-commentary-workflow`
 - 🏆 `harukiseller-droid/commerce-agent-bench`
-- 🏆 `limouren2000/YYGlobal`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
 - 🏆 `dukz2003/lum_codex`
+- 🏆 `limouren2000/YYGlobal`
