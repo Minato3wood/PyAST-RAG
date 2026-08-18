@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
 - 🏆 `syv-ai/qwen38-27b-rtx3090`
+- 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
 - 🏆 `chengyi-ai/native-subtitle-quote-image`
 - 🏆 `Claycui828/ASu-resume-skills`
 - 🏆 `LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler`
