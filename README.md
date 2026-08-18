@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `syv-ai/qwen38-27b-rtx3090`
 - 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
+- 🏆 `LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler`
 - 🏆 `chengyi-ai/native-subtitle-quote-image`
 - 🏆 `Claycui828/ASu-resume-skills`
-- 🏆 `LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler`
