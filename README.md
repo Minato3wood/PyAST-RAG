@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `eatWhitePorridge/link-pp`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
 - 🏆 `Claycui828/ASu-resume-skills`
-- 🏆 `limouren2000/YYGlobal`
 - 🏆 `idavidov13/agentic-playwright`
+- 🏆 `limouren2000/YYGlobal`
