@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
+- 🏆 `Claycui828/ASu-resume-skills`
 - 🏆 `eatWhitePorridge/link-pp`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
-- 🏆 `Claycui828/ASu-resume-skills`
 - 🏆 `idavidov13/agentic-playwright`
