@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
 - 🏆 `Claycui828/ASu-resume-skills`
+- 🏆 `chengyi-ai/native-subtitle-quote-image`
 - 🏆 `eatWhitePorridge/link-pp`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
-- 🏆 `chengyi-ai/native-subtitle-quote-image`
