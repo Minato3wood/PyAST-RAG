@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `Claycui828/ASu-resume-skills`
 - 🏆 `limouren2000/YYGlobal`
 - 🏆 `dukz2003/lum_codex`
-- 🏆 `Claycui828/ASu-resume-skills`
 - 🏆 `idavidov13/agentic-playwright`
 - 🏆 `duy90utc528/repo-publication-audit`
