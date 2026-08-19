@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
 - 🏆 `FireRedTeam/FireRedTTS3`
 - 🏆 `Claycui828/ASu-resume-skills`
-- 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
 - 🏆 `Glitch-Cat-Club/graph-memory-starter`
+- 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
