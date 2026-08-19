@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `air-embodied-brain/Zetta-Embodiment`
+- 🏆 `AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System`
 - 🏆 `FireRedTeam/FireRedTTS3`
 - 🏆 `Claycui828/ASu-resume-skills`
-- 🏆 `Glitch-Cat-Club/graph-memory-starter`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
+- 🏆 `Glitch-Cat-Club/graph-memory-starter`
