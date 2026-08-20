@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `squall01337/mixamo-llm-mocap`
+- 🏆 `Yaxin9Luo/AutoDesign`
 - 🏆 `catherpiee/meowmeowcatcam`
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
 - 🏆 `oil-oil/oil-subtitle`
