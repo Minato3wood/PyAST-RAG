@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `catherpiee/meowmeowcatcam`
 - 🏆 `oil-oil/oil-subtitle`
-- 🏆 `JouJouoo/agent-campus`
 - 🏆 `liyue-aigc/seedance-2-5-video-director`
+- 🏆 `JouJouoo/agent-campus`
 - 🏆 `flickzoz/mcp-guard`
