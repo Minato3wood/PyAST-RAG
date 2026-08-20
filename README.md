@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `JouJouoo/agent-campus`
 - 🏆 `liyue-aigc/seedance-2-5-video-director`
-- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `flickzoz/mcp-guard`
 - 🏆 `xianxie6/stamp-edge-skill`
