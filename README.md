@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `squall01337/mixamo-llm-mocap`
 - 🏆 `catherpiee/meowmeowcatcam`
-- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
+- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `liyue-aigc/seedance-2-5-video-director`
