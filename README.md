@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `squall01337/mixamo-llm-mocap`
 - 🏆 `xianxie6/stamp-edge-skill`
+- 🏆 `squall01337/mixamo-llm-mocap`
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
 - 🏆 `oil-oil/oil-subtitle`
 - 🏆 `JouJouoo/agent-campus`
