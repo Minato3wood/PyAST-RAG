@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `squall01337/mixamo-llm-mocap`
 - 🏆 `tritant/ComfyUI_MiniMax_H3_Extender`
-- 🏆 `gry67673905/-AI-`
 - 🏆 `3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro`
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
 - 🏆 `goku-open/goku-image-to-svg-tool`
