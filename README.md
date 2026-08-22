@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark`
 - 🏆 `warmsum/mini-harness`
 - 🏆 `d4ncboz/github-farm`
-- 🏆 `MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark`
 - 🏆 `liyue-aigc/seedance-2-5-video-director`
 - 🏆 `d4ncboz/qoder-workflow`
