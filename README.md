@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
 - 🏆 `jinzijian/EvoTrace`
-- 🏆 `d4ncboz/github-farm`
 - 🏆 `coding-parrot/pothole-reporter`
+- 🏆 `d4ncboz/github-farm`
 - 🏆 `d4ncboz/qoder-workflow`
