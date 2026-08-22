@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark`
 - 🏆 `coding-parrot/pothole-reporter`
 - 🏆 `d4ncboz/qoder-workflow`
-- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `d4ncboz/github-farm`
+- 🏆 `oil-oil/oil-subtitle`
