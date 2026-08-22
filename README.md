@@ -110,5 +110,5 @@ Git 提交请使用 Conventional Commits 规范。
 - 🏆 `turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents`
 - 🏆 `d4ncboz/qoder-workflow`
 - 🏆 `d4ncboz/github-farm`
-- 🏆 `oil-oil/oil-subtitle`
 - 🏆 `jinzijian/EvoTrace`
+- 🏆 `oil-oil/oil-subtitle`
