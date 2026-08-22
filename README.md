@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `coding-parrot/pothole-reporter`
 - 🏆 `oil-oil/oil-subtitle`
 - 🏆 `warmsum/mini-harness`
 - 🏆 `liyue-aigc/seedance-2-5-video-director`
-- 🏆 `coding-parrot/pothole-reporter`
 - 🏆 `d4ncboz/github-farm`
