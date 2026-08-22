@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark`
 - 🏆 `coding-parrot/pothole-reporter`
-- 🏆 `LB623/no-negative-echo`
+- 🏆 `d4ncboz/qoder-workflow`
 - 🏆 `oil-oil/oil-subtitle`
 - 🏆 `d4ncboz/github-farm`
-- 🏆 `d4ncboz/qoder-workflow`
