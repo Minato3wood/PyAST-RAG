@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `kevin-v-eng97e2/how-to-fish-utility`
 - 🏆 `patterniha/Free-Configs`
+- 🏆 `kevin-v-eng97e2/how-to-fish-utility`
 - 🏆 `JouJouoo/agent-campus`
 - 🏆 `itshen/source-reading-methodology`
 - 🏆 `zhengzihaoPKU/KERV`
