@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
+- 🏆 `liyue-aigc/seedance-2-5-video-director`
 - 🏆 `chenweixin123/workbooklens`
-- 🏆 `HanyuanWang/LiveStream-Agent-Studio`
 - 🏆 `itshen/source-reading-methodology`
 - 🏆 `beryl09/Explainable-Multi-Modal-Breast-Cancer-Prediction`
 - 🏆 `sqzw-x/amane`
