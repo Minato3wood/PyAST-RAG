@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `kevin-v-eng97e2/how-to-fish-utility`
-- 🏆 `zhengzihaoPKU/KERV`
 - 🏆 `patterniha/Free-Configs`
+- 🏆 `zhengzihaoPKU/KERV`
 - 🏆 `beryl09/Explainable-Multi-Modal-Breast-Cancer-Prediction`
 - 🏆 `Jordanwei1/jiaojie-skill`
