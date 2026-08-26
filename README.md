@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `bbaudio-2025/Comfyui-MMH3-UltimateUpscale`
 - 🏆 `Jordanwei1/jiaojie-skill`
+- 🏆 `wonderfulearth/primitive-operation-painter`
 - 🏆 `zunmax/technocore-did-starter`
 - 🏆 `vivekhaldar/seed`
-- 🏆 `wonderfulearth/primitive-operation-painter`
