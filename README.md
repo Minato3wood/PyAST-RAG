@@ -109,6 +109,6 @@ Git 提交请使用 Conventional Commits 规范。
 <!-- CONQUERED_LIST -->
 - 🏆 `vivekhaldar/seed`
 - 🏆 `bbaudio-2025/Comfyui-MMH3-UltimateUpscale`
-- 🏆 `dengzehan666-png/Review-RAG`
 - 🏆 `zunmax/technocore-did-starter`
+- 🏆 `dengzehan666-png/Review-RAG`
 - 🏆 `Jingyi-Wu-Richael/replicate-video-ad`
