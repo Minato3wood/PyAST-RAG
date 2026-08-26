@@ -107,8 +107,8 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `vivekhaldar/seed`
 - 🏆 `bbaudio-2025/Comfyui-MMH3-UltimateUpscale`
+- 🏆 `vivekhaldar/seed`
 - 🏆 `zunmax/technocore-did-starter`
 - 🏆 `dengzehan666-png/Review-RAG`
 - 🏆 `Jingyi-Wu-Richael/replicate-video-ad`
