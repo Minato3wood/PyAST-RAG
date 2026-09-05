@@ -107,7 +107,7 @@ Git 提交请使用 Conventional Commits 规范。
 
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
-- 🏆 `MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark`
+- 🏆 `dreamers-laboratory/timeseries-atlas`
 - 🏆 `Saganaki22/ComfyUI-VDN-H3`
 - 🏆 `larashero3-dotcom/lieflat-gongwen`
 - 🏆 `KorekKayu/IKONA-Security`
