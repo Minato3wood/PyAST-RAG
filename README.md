@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `MirroS-Lab/S-Space`
-- 🏆 `xiaYuTian11/maskit`
 - 🏆 `Phyzicalorg/Phyzical_org`
+- 🏆 `xiaYuTian11/maskit`
 - 🏆 `Omni-Interaction-Gander/Omni-Interaction-Agent`
 - 🏆 `hezhanleiok/freesub`
