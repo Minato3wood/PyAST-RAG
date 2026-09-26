@@ -108,7 +108,7 @@ Git 提交请使用 Conventional Commits 规范。
 本项目自动化实验室已成功处理的代码库列表：
 <!-- CONQUERED_LIST -->
 - 🏆 `ipenywis/laya-ultrafast`
+- 🏆 `secwind7/polytech-tree`
 - 🏆 `Re1nhard-1/deconv-preflight`
 - 🏆 `ashleydarosa/CC-Checker-Validator-Generator`
 - 🏆 `Goncafer47/Stablecoin-Payment-Gateway`
-- 🏆 `secwind7/polytech-tree`
